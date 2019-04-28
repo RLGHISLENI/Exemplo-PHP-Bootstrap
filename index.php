@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    
+
     <link rel="shortcut icon" href="dist\favicon.ico">
 
     <title>Usando Template Bootstrap</title>
@@ -40,7 +40,7 @@
         </label>
       </div>
       <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
-      <p class="mt-5 mb-3 text-muted">&copy; 2019</p>
+      <p class="mt-5 mb-3 text-muted">&copy; AppSul Sistemas 2019</p>
     </form>
   </body>
 
